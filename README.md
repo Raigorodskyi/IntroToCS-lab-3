@@ -34,3 +34,13 @@ new.md
 -------
 
 The purpose of this document is to simply do an extra command.
+
+
+
+studyplan
+==========
+studyplan.docx
+----------------
+
+The purpose of the document is to practice working with Word documents and create
+a Study Plan.
